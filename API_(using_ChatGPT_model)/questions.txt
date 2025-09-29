@@ -1,0 +1,7 @@
+To understand general relativity, first, let's start with gravity, the force of attraction that two objects exert on one another. Sir Isaac Newton quantified gravity in the same text in which he formulated his three laws of motion, the "Principia."
+
+The gravitational force tugging between two bodies depends on how massive each one is and how far apart the two lie, according to NASA Glenn Research Center. Even as the center of the Earth is pulling you toward it (keeping you firmly lodged on the ground), your center of mass is pulling back at the Earth. But the more massive body barely feels the tug from you, while with your much smaller mass, you find yourself firmly rooted thanks to that same force. Yet Newton's laws assume that gravity is an innate force of an object that can act over a distance.
+
+Albert Einstein, in his theory of special relativity, determined that the laws of physics are the same for all non-accelerating observers, and he showed that the speed of light within a vacuum is the same no matter the speed at which an observer travels, according to Wired.What is the main content of the above paragraph? Summarize it and give me some keywords in it.
+
+Which online website does the above content come from? Give me 5 most reliable online materials that are related to the above. Besides, give me the link and summarize the content of each website for me because I'm to lazy to browse through them. Don't forget to re-check whether each website is still able to be found or not. I don't want to be given a website that is not found.
