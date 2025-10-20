@@ -1,0 +1,9 @@
+--find-links https://download.pytorch.org/whl/cu118
+torch
+torchvision
+torchaudio
+timm
+einops
+transformers==4.37.2
+pygame
+# Note: flash-attn needs to be installed separately with: pip install flash-attn --no-build-isolation
