@@ -1,0 +1,91 @@
+doctor hand writing standard,unnamed: 1,unnamed: 2,unnamed: 3,unnamed: 4,unnamed: 5,unnamed: 6,general note for doctor,doctor hand writing contrast,unnamed: 9,unnamed: 10,unnamed: 11,unnamed: 12,unnamed: 13,detected_text_salvaged,text_len,ascii_only,is_empty_text,is_error
+name\data,text length,number of error,how many word and number confusion,percentage of error,run time,,nhận diện ko được chữ viết tay và những chữ bị ghi đè lên,name\data,text length,number of error,how many word and number confusion,percentage of error,run time,text length number of error how many word and number confusion percentage of error run time text length number of error how many word and number confusion percentage of error run time,183,True,False,False
+file 1,142,45,0,"63,38%",3.5126,,,file 1,142,29,0,"40,85%",6.8483,"142 45 0 63,38% 3.5126 142 29 0 40,85% 6.8483",45,True,False,False
+file 2,46,33,0,66%,2.1704,,,file 2,46,48,0,96%,3.3723,46 33 0 66% 2.1704 46 48 0 96% 3.3723,37,True,False,False
+file 3,145,76,0,"63,87%",7.6931,,,file 3,145,74,0,"62,18%",8.6743,"145 76 0 63,87% 7.6931 145 74 0 62,18% 8.6743",45,True,False,False
+file 4,25,all,1,100%,14.0603,,,file 4,25,all,0,100%,3.0883,25 all 1 100% 14.0603 25 all 0 100% 3.0883,42,True,False,False
+file 5,25,9,0,45%,3.2448,,,file 5,25,9,0,45%,3.0375,25 9 0 45% 3.2448 25 9 0 45% 3.0375,35,True,False,False
+file 6,36,14,0,"60,87%",2.9418,,,file 6,36,14,0,"60,87%",3.1406,"36 14 0 60,87% 2.9418 36 14 0 60,87% 3.1406",43,True,False,False
+file 7,50,21,0,"63,63%",3.7156,,,file 7,50,23,0,"69,69%",3.8277,"50 21 0 63,63% 3.7156 50 23 0 69,69% 3.8277",43,True,False,False
+file 8,67,15,0,"31,91%",2.4617,,,file 8,67,15,0,"31,91%",2.4673,"67 15 0 31,91% 2.4617 67 15 0 31,91% 2.4673",43,True,False,False
+file 9,43,14,0,"43,75%",3.554,,,file 9,43,14,0,"43,75%",5.3797,"43 14 0 43,75% 3.554 43 14 0 43,75% 5.3797",42,True,False,False
+file 10,65,15,0,"33,3%",1.464,,,file 10,65,15,0,"33,3%",2.131,"65 15 0 33,3% 1.464 65 15 0 33,3% 2.131",39,True,False,False
+total,644,242,1,"54,02%",44.8183,,,total,644,241,0,"53,79%",41.967,"644 242 1 54,02% 44.8183 644 241 0 53,79% 41.967",48,True,False,False
+,,,,,,,,,,,,,,,0,True,True,False
+Doctor hand writing noise,,,,,,,,Doctor hand writing blur,,,,,,,0,True,True,False
+name\data,text length,number of error,how many word and number confusion,percentage of error,run time,,,name\data,text length,number of error,how many word and number confusion,percentage of error,run time,text length number of error how many word and number confusion percentage of error run time text length number of error how many word and number confusion percentage of error run time,183,True,False,False
+file 1,142,31,0,"43,66%",3.2085,,,file 1,142,64,0,"90,14%",11.3175,"142 31 0 43,66% 3.2085 142 64 0 90,14% 11.3175",46,True,False,False
+file 2,46,48,0,96%,2.3071,,,file 2,46,48,1,96%,6.2527,46 48 0 96% 2.3071 46 48 1 96% 6.2527,37,True,False,False
+file 3,145,76,0,"63,87%",7.8235,,,file 3,145,74,0,"62,18%",17.7628,"145 76 0 63,87% 7.8235 145 74 0 62,18% 17.7628",46,True,False,False
+file 4,25,all,0,100%,13.9856,,,file 4,25,all,0,100%,8.1067,25 all 0 100% 13.9856 25 all 0 100% 8.1067,42,True,False,False
+file 5,25,10,0,50%,2.8118,,,file 5,25,13,0,65%,22.4801,25 10 0 50% 2.8118 25 13 0 65% 22.4801,38,True,False,False
+file 6,36,14,0,"60,87%",3.0845,,,file 6,36,11,0,"47,83%",4.5746,"36 14 0 60,87% 3.0845 36 11 0 47,83% 4.5746",43,True,False,False
+file 7,50,23,0,"69,7%",3.953,,,file 7,50,22,1,"66,6%",5.7845,"50 23 0 69,7% 3.953 50 22 1 66,6% 5.7845",40,True,False,False
+file 8,67,12,0,"25,53%",2.5168,,,file 8,67,24,0,"51,06%",22.2855,"67 12 0 25,53% 2.5168 67 24 0 51,06% 22.2855",44,True,False,False
+file 9,43,14,0,"43,75%",3.4612,,,file 9,43,14,0,"43,75%",9.8288,"43 14 0 43,75% 3.4612 43 14 0 43,75% 9.8288",43,True,False,False
+file 10,65,15,0,"33,3%",2.1988,,,file 10,65,14,0,"31,1%",2.7798,"65 15 0 33,3% 2.1988 65 14 0 31,1% 2.7798",41,True,False,False
+total,644,243,0,"54,24%",45.3508,,,total,644,284,2,"63,39%",111.173,"644 243 0 54,24% 45.3508 644 284 2 63,39% 111.173",49,True,False,False
+,,,,,,,,,,,,,,,0,True,True,False
+,,,,,,,,,,,,,,,0,True,True,False
+Science hand writing standard,,,,,,,,Science hand writing contrast,,,,,,,0,True,True,False
+name\data,text length,number of error,how many word and number confusion,percentage of error,note worthy,,,name\data,text length,number of error,how many word and number confusion,percentage of error,note worthy,text length number of error how many word and number confusion percentage of error note worthy text length number of error how many word and number confusion percentage of error note worthy,189,True,False,False
+file 1,71,69,0,0,244.0172,hình mờ nên chỉ đọc đc Tiêu đề (đúng),,file 1,71,69,0,97.18%,,71 69 0 0 244.0172 hình mờ nên chỉ đọc đc Tiêu đề (đúng) 71 69 0 97.18%,71,False,False,False
+file 2,87,6,3,3.45,17.7176,"không đọc được những thành phần trong bảng, chỉ đọc đc đề mục",,file 2,87,57,1,65.52%,,"87 6 3 3.45 17.7176 không đọc được những thành phần trong bảng, chỉ đọc đc đề mục 87 57 1 65.52%",96,False,False,False
+file 3,45,10,0,11,9.9098,"lộn xộn thứ tự, thiếu vài chữ mở đầu khúc bảng cuối. Máy chưa hiểu trình tự đọc ",,file 3,45,3,0,6.67%,,"45 10 0 11 9.9098 lộn xộn thứ tự, thiếu vài chữ mở đầu khúc bảng cuối. Máy chưa hiểu trình tự đọc  45 3 0 6.67%",111,False,False,False
+file 4,172,113,0,65.70,14.1109,"gặp khó khăn trong việc nhận diện thứ tự của ký hiệu và thành phần phụ chú của nó khi đặt ở các dòng khác nhau . VD: I - hiệu điện thế (v), cuồng độ dòng điện (A). Ngoài ra còn đọc sai những ký hiệu phức tạp. VD: Ohm -> L1",,file 4,172,150,0,87.21%,,"172 113 0 65.70 14.1109 gặp khó khăn trong việc nhận diện thứ tự của ký hiệu và thành phần phụ chú của nó khi đặt ở các dòng khác nhau . VD: I - hiệu điện thế (v), cuồng độ dòng điện (A). Ngoài ra còn đọc sai những ký hiệu phức tạp. VD: Ohm -> L1 172 150 0 87.21%",263,False,False,False
+file 5,120,61,0,50.83,21.7255,không tiêu đề không dấu = để cho ra kết quả. ,,file 5,120,86,1,71.67%,,120 61 0 50.83 21.7255 không tiêu đề không dấu = để cho ra kết quả.  120 86 1 71.67%,84,False,False,False
+file 6,206,all,all,100.00,11.6657,không hề đọc được bất kỳ thông tin gì chính xác trên sample,,file 6,206,171,1,83.01%,,206 all all 100.00 11.6657 không hề đọc được bất kỳ thông tin gì chính xác trên sample 206 171 1 83.01%,103,False,False,False
+file 7,158,48,3,30.38,21.0292,gặp khó khăn trong việc đọc một format sơ đồ cây. Bỏ qua rất nhiều từ và tiêu đề. Không xác định được thứ tự của các phần,,file 7,158,50,1,31.65%,,158 48 3 30.38 21.0292 gặp khó khăn trong việc đọc một format sơ đồ cây. Bỏ qua rất nhiều từ và tiêu đề. Không xác định được thứ tự của các phần 158 50 1 31.65%,160,False,False,False
+file 8,126,79,0,62.70,9.6820,gặp khó khăn trong việc đọc những format không phải văn bản truyền thống. Bỏ qua đại đa số phần. Không biết đọc theo thứ tự ,,file 8,126,85,0,67.46%,,126 79 0 62.70 9.6820 gặp khó khăn trong việc đọc những format không phải văn bản truyền thống. Bỏ qua đại đa số phần. Không biết đọc theo thứ tự  126 85 0 67.46%,162,False,False,False
+file 9,131,223,0,170.23,25.1597,"dễ dàng đọc và cho ra kết quả đẹp hơn những format không truyền thống như nêu trên, nhưng lại gặp khó khăn trong việc hiểu những khái niệm dấu như >= hoặc <=",,file 9,131,8,0,6.11%,,"131 223 0 170.23 25.1597 dễ dàng đọc và cho ra kết quả đẹp hơn những format không truyền thống như nêu trên, nhưng lại gặp khó khăn trong việc hiểu những khái niệm dấu như >= hoặc <= 131 8 0 6.11%",196,False,False,False
+file 10,35,8,0,22.86,17.2271,"đọc được đa số nhưng gặp khó khăn trong việc đọc các phương trình hóa học. VD: ""từ metanol"""", """"CH3OH"""", """"CO"""", """"CH3COOH"""" ",,file 10,35,10,0,28.57%,,"35 8 0 22.86 17.2271 đọc được đa số nhưng gặp khó khăn trong việc đọc các phương trình hóa học. VD: ""từ metanol"""", """"CH3OH"""", """"CO"""", """"CH3COOH""""  35 10 0 28.57%",161,False,False,False
+total,1151,617,6,53.61,392.2447,"Đọc được chính xác từ, gặp khó khăn trong việc đọc các format phi truyền thống như mind map. Chưa đọc chính xác được các phương trình hóa học, toán học, dấu, thứ tự (mind map).",,total,1151,689,4,59.86%,,"1151 617 6 53.61 392.2447 Đọc được chính xác từ, gặp khó khăn trong việc đọc các format phi truyền thống như mind map. Chưa đọc chính xác được các phương trình hóa học, toán học, dấu, thứ tự (mind map). 1151 689 4 59.86%",220,False,False,False
+,,,,,,,,,,,,,,,0,True,True,False
+Science hand writing noise,,,,,,,,Science hand writing blur,,,,,,,0,True,True,False
+name\data,text length,number of error,how many word and number confusion,percentage of error,run time,nnote,,name\data,text length,number of error,how many word and number confusion,percentage of error,run time,text length number of error how many word and number confusion percentage of error run time nnote text length number of error how many word and number confusion percentage of error run time,189,True,False,False
+file 1,71,0,0,0.00%,13.2199,"chỉ đọc được tiêu đề, bỏ qua tất cả thành phần trong sample",,file 1,71,70,1,98.59%,10.5606,"71 0 0 0.00% 13.2199 chỉ đọc được tiêu đề, bỏ qua tất cả thành phần trong sample 71 70 1 98.59% 10.5606",103,False,False,False
+file 2,87,1,0,1.15%,20.4825,"bị lập cấu trúc, bỏ qua các thành phần khác trong một phần mà chỉ nêu tiêu đề",,file 2,87,79,0,90.80%,66.1961,"87 1 0 1.15% 20.4825 bị lập cấu trúc, bỏ qua các thành phần khác trong một phần mà chỉ nêu tiêu đề 87 79 0 90.80% 66.1961",121,False,False,False
+file 3,45,9,1,20.00%,8.8935,đọc được đa số nhưng có vài đoạn không theo thứ tự nhất quán,,file 3,45,42,1,93.33%,55.6027,45 9 1 20.00% 8.8935 đọc được đa số nhưng có vài đoạn không theo thứ tự nhất quán 45 42 1 93.33% 55.6027,104,False,False,False
+file 4,172,135,0,78.49%,9.5814,bỏ qua đa số thành phần trong sample. gặp khó khăn trong việc xét thứ tự của các từ,,file 4,172,168,0,97.67%,9.1296,172 135 0 78.49% 9.5814 bỏ qua đa số thành phần trong sample. gặp khó khăn trong việc xét thứ tự của các từ 172 168 0 97.67% 9.1296,131,False,False,False
+file 5,120,10,3,8.33%,34.341,đọc được đa số các thông tin nhưng lại không chính xác trong các ký hiệu như pi và +-,,file 5,120,119,0,99.17%,19.8353,120 10 3 8.33% 34.341 đọc được đa số các thông tin nhưng lại không chính xác trong các ký hiệu như pi và +- 120 119 0 99.17% 19.8353,132,False,False,False
+file 6,206,171,0,83.01%,7.6319,không đọc được tất cả thông tin và lược bỏ rất nhiều,,file 6,206,201,0,97.57%,23.1507,206 171 0 83.01% 7.6319 không đọc được tất cả thông tin và lược bỏ rất nhiều 206 201 0 97.57% 23.1507,101,False,False,False
+file 7,158,119,0,75.32%,10.8755,"đọc hỗn loạn vị trí, gặp khó khăn trong việc đọc mind map do không biết trình tự đọc",,file 7,158,147,0,93.04%,18.2068,"158 119 0 75.32% 10.8755 đọc hỗn loạn vị trí, gặp khó khăn trong việc đọc mind map do không biết trình tự đọc 158 147 0 93.04% 18.2068",134,False,False,False
+file 8,126,86,0,68.25%,8.7791,đọc với trình tự ngẫu nhiên mặc dù chính xác về mặt chính tả,,file 8,126,83,0,65.87%,60.3038,126 86 0 68.25% 8.7791 đọc với trình tự ngẫu nhiên mặc dù chính xác về mặt chính tả 126 83 0 65.87% 60.3038,107,False,False,False
+file 9,131,34,13,25.95%,20.7054,xác định dấu không chính xác và lược bỏ rất nhiều,,file 9,131,119,1,90.84%,8.08,131 34 13 25.95% 20.7054 xác định dấu không chính xác và lược bỏ rất nhiều 131 119 1 90.84% 8.08,96,False,False,False
+file 10,35,9,1,25.71%,15.7361,chính xác đa số nhưng lại không đọc được dấu trong phương trình hóa học,,file 10,35,26,0,74.29%,14.3096,35 9 1 25.71% 15.7361 chính xác đa số nhưng lại không đọc được dấu trong phương trình hóa học 35 26 0 74.29% 14.3096,116,False,False,False
+total,1151,574,18,49.87%,150.2463, Tổng thể thì OCR có thể đọc được chính xác chính tả nhưng lại gặp khó khăn trong việc xác định thứ tự cũng như vị trí của các từ khi cho đọc những tài liệu phi truyền thống như mind map. Đọc được có vẻ chính xác hơn bản standard,,total,1151,1054,3,91.57%,285.3752,1151 574 18 49.87% 150.2463  Tổng thể thì OCR có thể đọc được chính xác chính tả nhưng lại gặp khó khăn trong việc xác định thứ tự cũng như vị trí của các từ khi cho đọc những tài liệu phi truyền thống như mind map. Đọc được có vẻ chính xác hơn bản standard 1151 1054 3 91.57% 285.3752,285,False,False,False
+,,,,,,,,,,,,,,,0,True,True,False
+,,,,,,,,,,,,,,,0,True,True,False
+caligraphy writing standard,,,,,,,,caligraphy writing contrast,,,,,,,0,True,True,False
+name\data,text length,number of error,how many word and number confusion,percentage of error,run time,,,name\data,text length,number of error,how many word and number confusion,percentage of error,run time,text length number of error how many word and number confusion percentage of error run time text length number of error how many word and number confusion percentage of error run time,183,True,False,False
+file 1,28,16,0,57.14%,3.3714,,,file 1,28,16,0,57.14%,5.295,28 16 0 57.14% 3.3714 28 16 0 57.14% 5.295,42,True,False,False
+file 2,19,18,0,94.74%,5.104,,,file 2,19,18,0,94.74%,8.3357,19 18 0 94.74% 5.104 19 18 0 94.74% 8.3357,42,True,False,False
+file 3,18,4,0,22.22%,3.7225,,,file 3,18,6,0,33.33%,4.3469,18 4 0 22.22% 3.7225 18 6 0 33.33% 4.3469,41,True,False,False
+file 4,20,19,0,95%,16.2603,,,file 4,20,19,0,95%,17.8542,20 19 0 95% 16.2603 20 19 0 95% 17.8542,39,True,False,False
+file 5,23,13,0,56.52%,4.0016,,,file 5,23,16,0,69.57%,7.3644,23 13 0 56.52% 4.0016 23 16 0 69.57% 7.3644,43,True,False,False
+file 6,130,99,0,76.15%,9.425,,,file 6,130,98,0,75.38%,11.1106,130 99 0 76.15% 9.425 130 98 0 75.38% 11.1106,45,True,False,False
+file 7,14,1,0,7.14%,7.9259,,,file 7,14,3,0,21.43%,9.126,14 1 0 7.14% 7.9259 14 3 0 21.43% 9.126,39,True,False,False
+file 8,12,6,0,50%,7.8852,,,file 8,12,6,0,50%,7.6218,12 6 0 50% 7.8852 12 6 0 50% 7.6218,35,True,False,False
+file 9,39,37,0,94.87%,6.5451,,,file 9,39,38,0,97.44%,5.1098,39 37 0 94.87% 6.5451 39 38 0 97.44% 5.1098,43,True,False,False
+file 10,17,17,0,100.00%,9.1426,,,file 10,17,17,0,100%,12.8415,17 17 0 100.00% 9.1426 17 17 0 100% 12.8415,43,True,False,False
+total,320,230,0,71.88%,73.3836,,,total,320,237,0,74.06%,89.0059,320 230 0 71.88% 73.3836 320 237 0 74.06% 89.0059,49,True,False,False
+,,,,,,,,,,,,,,,0,True,True,False
+caligraphy writing noise,,,,,,,,caligraphy writing blur,,,,,,,0,True,True,False
+name\data,text length,number of error,how many word and number confusion,percentage of error,run time,,,name\data,text length,number of error,how many word and number confusion,percentage of error,run time,text length number of error how many word and number confusion percentage of error run time text length number of error how many word and number confusion percentage of error run time,183,True,False,False
+file 1,28,16,0,57.14%,3.1448,,,file 1,28,28,0,100%,13.4706,28 16 0 57.14% 3.1448 28 28 0 100% 13.4706,42,True,False,False
+file 2,19,19,0,100%,5.4216,,,file 2,19,19,0,100%,7.7045,19 19 0 100% 5.4216 19 19 0 100% 7.7045,39,True,False,False
+file 3,18,9,0,50.00%,6.3779,,,file 3,18,18,0,100%,4.5385,18 9 0 50.00% 6.3779 18 18 0 100% 4.5385,40,True,False,False
+file 4,20,20,0,100%,8.0127,,,file 4,20,20,0,100%,7.6471,20 20 0 100% 8.0127 20 20 0 100% 7.6471,39,True,False,False
+file 5,23,12,0,52.17%,5.07,,,file 5,23,14,0,60.87%,7.5347,23 12 0 52.17% 5.07 23 14 0 60.87% 7.5347,41,True,False,False
+file 6,130,92,0,70.77%,12.9891,,,file 6,130,111,0,85.38%,9.8519,130 92 0 70.77% 12.9891 130 111 0 85.38% 9.8519,47,True,False,False
+file 7,14,1,0,7.14%,7.0375,,,file 7,14,3,0,21.43%,9.2897,14 1 0 7.14% 7.0375 14 3 0 21.43% 9.2897,40,True,False,False
+file 8,12,6,0,50%,9.1057,,,file 8,12,8,0,66.67%,8.22158,12 6 0 50% 9.1057 12 8 0 66.67% 8.22158,39,True,False,False
+file 9,39,37,0,94.87%,7.5095,,,file 9,39,38,0,97.44%,6.1862,39 37 0 94.87% 7.5095 39 38 0 97.44% 6.1862,43,True,False,False
+file 10,17,17,0,100%,10.1276,,,file 10,17,16,0,94.12%,24.7643,17 17 0 100% 10.1276 17 16 0 94.12% 24.7643,43,True,False,False
+total,320,229,0,71.56%,74.7964,,,total,320,275,0,85.94%,99.2033,320 229 0 71.56% 74.7964 320 275 0 85.94% 99.2033,49,True,False,False
+,,,,,,,,,,,,,,,0,True,True,False
+,,,,,,,,,,,,,,,0,True,True,False
+Caligraphy's general notes:,,,,,,,,,,,,,,,0,True,True,False
+"- Gặp vấn đề lớn trong việc nhận diện chữ thư pháp (70% - 75%), đặc biệt là khi chữ bị mờ mịt (>85%)",,,,,,,,,,,,,,,0,True,True,False
+"- Thường bỏ qua những chữ quá lớn và nhỏ,, khó đọc được chữ nghiêng hay những chữ lớn chèn với chữ nhỏ.",,,,,,,,,,,,,,,0,True,True,False
+"- Dù nhiều kết quả lại kha khá gần nhau hoặc giống nhau, những chữ cái chính xác được đưa ra có nhiều điểm khác biệt rõ ràng.",,,,,,,,,,,,,,,0,True,True,False

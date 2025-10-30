@@ -1,0 +1,7 @@
+Total rows: 90
+1) Overall failure rate: 18/90 = 20.0% (error rows or empty OCR text).
+Processing time (sec): n=66, mean=23.66, median=8.40, p90=39.58, max=392.24
+3) Longest OCR texts (top-3 lengths): 285, 263, 220.
+4) Very short (<=3 chars) texts: 18 rows; truly empty: 18 rows.
+6) Correlation between processing time and text length: r = 0.429 (n=66).
+10) ASCII-only OCR share (proxy for lost diacritics): 75.6% of rows.
