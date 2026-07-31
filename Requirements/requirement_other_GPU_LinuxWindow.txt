@@ -1,0 +1,30 @@
+# Requirements for OCR_with_camera_UI_ver1.py on Linux/Windows with non-NVIDIA GPUs (Intel/AMD)
+# Default: CPU-only PyTorch wheels from PyPI (no CUDA, no FlashAttention2).
+# Windows users can optionally enable GPU via DirectML.
+
+# Core deep learning stack (CPU)
+torch
+torchvision
+
+# Model + utilities
+transformers
+safetensors
+timm
+einops
+sentencepiece
+
+# App + image I/O + UI
+openai
+pygame
+pillow
+
+# Optional Windows GPU acceleration (DirectML). Safe to include; pip ignores this on Linux/macOS.
+torch-directml; platform_system == "Windows"
+
+# Optional AMD ROCm on Linux:
+# If you have a supported AMD GPU on Linux and want ROCm acceleration,
+# use the ROCm index and install ROCm wheels instead of the CPU ones above.
+# Replace the torch/torchvision lines above with the following, using ONE of the rocm indices that matches your setup:
+# --index-url https://download.pytorch.org/whl/rocm6.0
+# torch
+# torchvision
