@@ -42,3 +42,4 @@ docs/          Project report and documentation
 requirements/  Platform-specific dependencies
 images/        Screenshots and demo images
 experiments/   Alternative OCR approaches and experiments
+result/   result of experiments 
